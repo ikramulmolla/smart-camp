@@ -79,7 +79,7 @@ smartcamp/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/smartcamp.git
+git clone https://github.com/ikramulmolla/smart-camp.git
 ```
 
 ### Move the project to your web server
